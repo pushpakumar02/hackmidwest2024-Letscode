@@ -14,16 +14,18 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 ## Who's on your team?
 *List the full names,  email address & Github username of your teammates*
 
-1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
-2. 
-3.
-4.
-5.
+1. Pushpa Kumar Balan || pxb19830@ucmo.edu                  <!-- **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username** -->
+2. Deepak Sai Putta   || dxp32180@ucmo.edu
+3. Naveen Vemula      || nxv28930@ucmo.edu
+4. Vennela Pulavarti  || vxp64800@ucmo.edu
+5. Akhila Chinthala   || axc75650@ucmo.edu
+
 
 <br /><br />
 
 
 ## What is the name of your App?
+
 
 <br /><br />
 ## What does your app do?
